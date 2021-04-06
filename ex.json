@@ -4,594 +4,595 @@
 [
  {
    "Image": "",
-   "Unit": "Jonathan",
+   "Unit": "2Jon",
+   "Effect": "After making a 5x5 or bigger, enhances 4 Jonathan Panels"
+ },
+ {
+   "Image": "",
+   "Unit": "Jon",
    "Effect": "After clearing 35 Jonathan Panels, erase 4 random Panels"
    
  },
  {
-   "Image": "",
-   "Unit": "Jonathan V2",
-   "Effect": "After making a 5x5 or bigger, enhances 4 Jonathan Panels"
- },
- {
-   "Unit": "Dio Brando",
+   "Unit": "Brando",
    "Effect": "After making a 5x5 or bigger, replaces all Dio Panels with Intensified Dio Panels (Can only be used once per battle)"
  },
  {
    "Image": "",
    "Unit": "Zeppeli",
-   "Effect": "After erasing 12 Block Panels, replaces a random Panel with a Zeppeli Cutter Panel\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/493772866928508938/819566927940288542/ui_sticker_icon_zeppeli_0000.png"
+   "Effect": "After erasing 12 Block Panels, replaces a random Panel with a Zeppeli Cutter Panel"
+
  },
  {
    "Image": "",
    "Unit": "Joseph",
-   "Effect": "After making a 4x4 or bigger, enhances 4 Joseph Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/493772866928508938/823548521651241001/ui_sticker_icon_joseph2_0000.png"
+   "Effect": "After making a 4x4 or bigger, enhances 4 Joseph Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Joseph V2",
-   "Effect": "After clearing 50 Partner Panels, replaces a random Panel, except for Partner Panels, with a Partner Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/493749196864880651/821000980845166652/ui_sticker_icon_joseph2_0001.png"
+   "Unit": "Maskseph",
+   "Effect": "After clearing 50 Partner Panels, replaces a random Panel, except for Partner Panels, with a Partner Box Panel"
+   
+   
  },
  {
    "Image": "",
-   "Unit": "Joseph V3",
-   "Effect": "TBA",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306274882748426/100px-PPPStickerJoseph2-3EX.png"
+   "Unit": "Gunseph",
+   "Effect": "TBA"
+   
  },
  {
    "Image": "",
-   "Unit": "Joseph V4",
-   "Effect": "After erasing 12 Enhanced Panels, erases 2 random Panels, having priority on Block Panels\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306299082965012/100px-PPPStickerJoseph2-4EX.png"
+   "Unit": "Pseph",
+   "Effect": "After erasing 12 Enhanced Panels, erases 2 random Panels, having priority on Block Panels\n"
+  
  },
  {
    "Image": "",
    "Unit": "Caesar",
-   "Effect": "After making a 4x4 or bigger, replaces 4 random Cheer Panels with Caesar Bubble Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306327038525460/100px-PPPStickerCaesarEX.png"
+   "Effect": "After making a 4x4 or bigger, replaces 4 random Cheer Panels with Caesar Bubble Panels"
+  
  },
  {
    "Image": "",
-   "Unit": "Caesar V2",
-   "Effect": "After clearing 30 Enhanced Panels, replaces 20 random Panels with Intensified Caesar Bubble Panels \n(Can only be used once per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306353366695956/100px-PPPStickerCaesar2EX.png"
+   "Unit": "Vaesar",
+   "Effect": "After clearing 30 Enhanced Panels, replaces 20 random Panels with Intensified Caesar Bubble Panels \n(Can only be used once per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Caesar V3",
-   "Effect": "After erasing 36 Intensified Panels, enhances the Panels in the bottom row",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306374634962954/100px-PPPStickerCaesar3EX.png"
+   "Unit": "Naesar",
+   "Effect": "After erasing 36 Intensified Panels, enhances the Panels in the bottom row"
+  
  },
  {
    "Image": "",
-   "Unit": "Wamuu V2",
-   "Effect": "After clearing 200 Panels, fully recharges Partner Skill Gauge \n(Can only be used up to three times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306432382664714/100px-PPPStickerWamuu2EX.png"
+   "Unit": "Vamuu",
+   "Effect": "After clearing 200 Panels, fully recharges Partner Skill Gauge \n(Can only be used up to three times per battle)"
+  
  },
  {
    "Image": "",
-   "Unit": "Esidisi V2",
-   "Effect": "After clearing 50 Intensified Panels, Intensified Panels will appear for 15 seconds \n(Can only be used two times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306479480504370/100px-PPPStickerEsidisi2EX.png"
+   "Unit": "VACDC",
+   "Effect": "After clearing 50 Intensified Panels, Intensified Panels will appear for 15 seconds \n(Can only be used two times per battle)"
+  
  },
  {
    "Image": "",
    "Unit": "Stroheim",
-   "Effect": "After a 50% of the time has passed since the Battle started, Enhanced Panels will appear for 10 seconds\n (Can only be used once per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306401160527913/100px-PPPStickerStroheimEX.png"
+   "Effect": "After a 50% of the time has passed since the Battle started, Enhanced Panels will appear for 10 seconds\n (Can only be used once per battle)\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Kars V2",
-   "Effect": "After using a Skill once, recharges a 20% of his Skill Gauge \n(Can only be used five times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306501345542184/100px-PPPStickerKars2EX.png"
+   "Unit": "VKars",
+   "Effect": "After using a Skill once, recharges a 20% of his Skill Gauge \n(Can only be used five times per battle)"
+
  },
  {
    "Image": "",
    "Unit": "Jotaro",
-   "Effect": "After clearing 30 Jotaro Panels, replaces a random Cheer Panel with a Jotaro Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306557732978708/100px-PPPStickerJotaroEX.png"
+   "Effect": "After clearing 30 Jotaro Panels, replaces a random Cheer Panel with a Jotaro Box Panel"
+   
  },
  {
    "Image": "",
-   "Unit": "Jotaro V2",
-   "Effect": "After making a 4x4 or bigger, replaces a random Cheer Panel with a Jotaro Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306580231618591/100px-PPPStickerJotaro3-2EX.png"
+   "Unit": "Voiced Jotaro",
+   "Effect": "After making a 4x4 or bigger, replaces a random Cheer Panel with a Jotaro Box Panel"
+   
  },
  {
    "Image": "",
-   "Unit": "Jotaro & Anne",
-   "Effect": "After erasing 15 Block Panels, replaces a random Panel with a Jotaro & Anne Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306604075974696/100px-PPPStickerJotaroAnneEX.png"
+   "Unit": "Boataro",
+   "Effect": "After erasing 15 Block Panels, replaces a random Panel with a Jotaro & Anne Box Panel"
+   
  },
  {
    "Image": "",
-   "Unit": "Joseph (Part 3)",
-   "Effect": "After making a 4x4 or bigger, replaces a random Cheer Panel with an Enhanced Joseph (Part 3) Box Panel \n(Can only be used five times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306631075233832/100px-PPPStickerJoseph3EX.png"
+   "Unit": "Oldseph",
+   "Effect": "After making a 4x4 or bigger, replaces a random Cheer Panel with an Enhanced Joseph (Part 3) Box Panel \n(Can only be used five times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Avdol V2",
-   "Effect": "After using Skills 4 times, replaces all Avdol Panels with Intensified Avdol Panels \n(Can only be used twice per battle) \n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306660363665466/100px-PPPStickerAvdolEX.png"
+   "Unit": "Vavdol",
+   "Effect": "After using Skills 4 times, replaces all Avdol Panels with Intensified Avdol Panels \n(Can only be used twice per battle) \n"
+   
  },
  {
    "Image": "",
    "Unit": "Kakyoin",
-   "Effect": "After clearing 30 Kakyoin Panels, erases 2 random Panels, having priority on Block Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306686897225728/100px-PPPStickerKakyoinEX.png"
+   "Effect": "After clearing 30 Kakyoin Panels, erases 2 random Panels, having priority on Block Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Kakyoin V2",
-   "Effect": "After entering Stand Up 2 times, moves all Partner Panels to the bottom \n(Can only be used five times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306710758752256/100px-PPPStickerKakyoin2EX.png"
+   "Unit": "PJKak",
+   "Effect": "After entering Stand Up 2 times, moves all Partner Panels to the bottom \n(Can only be used five times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Kakyoin V3",
-   "Effect": "After clearing 80 partner panels, replaces a random panel (excluding partner panels) with a partner Box panel.\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306742186803210/100px-PPPStickerKakyoin3EX.png"
+   "Unit": "3Kak",
+   "Effect": "After clearing 80 partner panels, replaces a random panel (excluding partner panels) with a partner Box panel.\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Kakyoin V4",
-   "Effect": "After dealing 250,000 or more damage in Stand Up Time, replaces a random Panel with an Intensified Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306771969769492/100px-PPPStickerKakyoin4EX.png"
+   "Unit": "4Kak",
+   "Effect": "After dealing 250,000 or more damage in Stand Up Time, replaces a random Panel with an Intensified Panel"
+   
  },
  {
    "Image": "",
-   "Unit": "Polnareff V2",
-   "Effect": " After attacking the enemy 200 times, enhances 10 random Panels \n(Can only be used five times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306798582628402/100px-PPPStickerPolnareff3-2EX.png"
+   "Unit": "Bagpol",
+   "Effect": " After attacking the enemy 200 times, enhances 10 random Panels \n(Can only be used five times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Polnareff & Iggy ",
-   "Effect": "After making a 5x5 or bigger in Stand Up, erases the panels in the bottom row\n\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306824684175410/100px-PPPStickerPolnareffIggyEX.png"
+   "Unit": "Poggy ",
+   "Effect": "After making a 5x5 or bigger in Stand Up, erases the panels in the bottom row\n\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Iggy V2",
-   "Effect": " After erasing 16 Block Panels, replaces a random Cheer Panel with a Partner Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306856233992192/100px-PPPStickerIggy2EX.png"
+   "Unit": "Viggy",
+   "Effect": " After erasing 16 Block Panels, replaces a random Cheer Panel with a Partner Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Mariah",
-   "Effect": "After filling the Partner’s Skill Gauge twice, erases 2 random Panels, with priority on Block Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306930930221086/100px-PPPStickerMariahEX.png"
+   "Effect": "After filling the Partner’s Skill Gauge twice, erases 2 random Panels, with priority on Block Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Rubber Soul",
-   "Effect": "After using his Skill twice, intensifies 2 random Rubber Soul Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306881155760128/100px-PPPStickerRubberSoulEX.png"
+   "Unit": "Rubber-Soul",
+   "Effect": "After using his Skill twice, intensifies 2 random Rubber Soul Panels"
+
  },
  {
    "Image": "",
    "Unit": "Boingo",
-   "Effect": "After erasing 16 Block Panels, the appearance rate of Partner Panels is doubled for 15 seconds \n(Can only be used once per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306903742742538/100px-PPPStickerBoingoEX.png"
+   "Effect": "After erasing 16 Block Panels, the appearance rate of Partner Panels is doubled for 15 seconds \n(Can only be used once per battle)\n"
+  
  },
  {
    "Image": "",
-   "Unit": "Gambler D'Arby",
-   "Effect": "After clearing 40 J. D'Arby Panels, enhances 2 random Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826306972404023336/100px-PPPStickerDanielEX.png"
+   "Unit": "Gambler",
+   "Effect": "After clearing 40 J. D'Arby Panels, enhances 2 random Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Gamer D'Arby",
-   "Effect": "After entering Stand Up 2 times, moves all T. D'Arby Panels to the bottom",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307055647588362/100px-PPPStickerTelenceEX.png"
+   "Unit": "Gamer",
+   "Effect": "After entering Stand Up 2 times, moves all T. D'Arby Panels to the bottom"
+  
  },
  {
    "Image": "",
-   "Unit": "Vanilla Ice",
-   "Effect": " After filling his Skill Gauge twice, intensifies 2 random Vanilla Ice Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307080255176714/100px-PPPStickerVanillaIceEX.png"
+   "Unit": "Vanilla-Ice",
+   "Effect": " After filling his Skill Gauge twice, intensifies 2 random Vanilla Ice Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Vanilla Ice V2",
-   "Effect": "After a 5% of the time has passed since the Battle started, charges the Partner Skill Gauge by a 50% \n(Can only be used once per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307109065981963/100px-PPPStickerVanillaIce2EX.png"
+   "Unit": "VVice",
+   "Effect": "After a 5% of the time has passed since the Battle started, charges the Partner Skill Gauge by a 50% \n(Can only be used once per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "DIO",
-   "Effect": "After clearing 80 Panels, replaces 2 random Panels with Enhanced DIO Panels\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307135787892756/100px-PPPStickerDIOEX.png"
+   "Effect": "After clearing 80 Panels, replaces 2 random Panels with Enhanced DIO Panels\n"
+  
  },
  {
    "Image": "",
-   "Unit": "DIO V2",
-   "Effect": "After filling his Skill Gauge 90% twice, Intensified Panels will appear for 3 seconds \n(Can only be used five times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307169456488448/100px-PPPStickerDIO2EX.png"
+   "Unit": "HIO",
+   "Effect": "After filling his Skill Gauge 90% twice, Intensified Panels will appear for 3 seconds \n(Can only be used five times per battle)\n"
+   
  },
  {
    "Image": "",
-   "Unit": "DIO V3",
-   "Effect": "After dealing 300,000 or more damage in Stand Up Time, charges his Skill Gauge by 20% \n(Can only be used five times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307202225668116/100px-PPPStickerDIO3EX.png"
+   "Unit": "SIO",
+   "Effect": "After dealing 300,000 or more damage in Stand Up Time, charges his Skill Gauge by 20% \n(Can only be used five times per battle)\n"
+  
  },
  {
    "Image": "",
    "Unit": "Josuke",
-   "Effect": "After making a 4x4 or bigger in Stand Up, enhances 4 random Josuke Panels\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307261445439498/100px-PPPStickerJosukeEX.png"
+   "Effect": "After making a 4x4 or bigger in Stand Up, enhances 4 random Josuke Panels\n"
+  
  },
  {
    "Image": "",
-   "Unit": "Josuke V2",
-   "Effect": "After erasing 36 Enhanced Panels, replaces 4 random Panels with Intensified Partner Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307291950219264/100px-PPPStickerJosuke2EX.png"
+   "Unit": "Vosuke",
+   "Effect": "After erasing 36 Enhanced Panels, replaces 4 random Panels with Intensified Partner Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Josuke & Joseph (Part 4)",
-   "Effect": "After their own Skill Gauge is 100% charged, charges the Partner’s Skill Gauge by 10% \n(Can only be used five times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307321218990080/100px-PPPStickerJosukeJoseph4EX.png"
+   "Unit": "Oldsuke",
+   "Effect": "After their own Skill Gauge is 100% charged, charges the Partner’s Skill Gauge by 10% \n(Can only be used five times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Koichi (Act 2)",
-   "Effect": "After making a 4x4 or bigger in Stand Up, replaces 4 random Partner Panels with Enhanced Partner Panels \n(Can only be used five times per battle)\n\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307352545591336/100px-PPPStickerKoichi2EX.png"
+   "Unit": "Act-2",
+   "Effect": "After making a 4x4 or bigger in Stand Up, replaces 4 random Partner Panels with Enhanced Partner Panels \n(Can only be used five times per battle)\n\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Koichi & Yukako",
-   "Effect": "After entering Stand Up 2 times, a random Panel is replaced with a Koichi & Yukako Panel, having priority on Block Panels\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307373135691786/100px-PPPStickerKoichiYukakoEX.png"
+   "Unit": "Yukoichi",
+   "Effect": "After entering Stand Up 2 times, a random Panel is replaced with a Koichi & Yukako Panel, having priority on Block Panels\n"
+  
  },
  {
    "Image": "",
-   "Unit": "Jotaro (Part 4)",
-   "Effect": "After clearing 100 Panels, replaces 2 random Panels with Enhanced Partner Panels\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/827400567394664468/150px-PPPStickerJotaro4EX.png"
+   "Unit": "4taro",
+   "Effect": "After clearing 100 Panels, replaces 2 random Panels with Enhanced Partner Panels\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Jotaro (Part 4) V2",
-   "Effect": "After attacking the enemy 120 times, replaces a random normal Panel with a partner Box Panel.\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/493749196864880651/827384799349309490/PPPStickerJotaro4-2EX.png"
+   "Unit": "v4taro",
+   "Effect": "After attacking the enemy 120 times, replaces a random normal Panel with a partner Box Panel.\n"
+  
  },
  {
    "Image": "",
    "Unit": "Okuyasu",
-   "Effect": "After erasing 6 Block Panels, enhances 4 random Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307476190003230/100px-PPPStickerOkuyasuEX.png"
+   "Effect": "After erasing 6 Block Panels, enhances 4 random Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Okuyasu V2",
-   "Effect": "After erasing 6 Block Panels, replaces a random Panel, except for Partner Panels, with a Partner Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307498696245268/100px-PPPStickerOkuyasu2EX.png"
+   "Unit": "VOkuyasu",
+   "Effect": "After erasing 6 Block Panels, replaces a random Panel, except for Partner Panels, with a Partner Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Rohan",
-   "Effect": "After clearing 12 Enhanced Panels, replaces a random Panel, except for Partner Panels, with a Partner Box Panel\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307524311121920/100px-PPPStickerRohanEX.png"
+   "Effect": "After clearing 12 Enhanced Panels, replaces a random Panel, except for Partner Panels, with a Partner Box Panel\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Rohan V2",
-   "Effect": "After a 5% of the time has passed since the Battle started, charges own Skill Gauge by 50% \n(Can only be used once per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307553972977664/100px-PPPStickerRohan2EX.png"
+   "Unit": "Dicehan",
+   "Effect": "After a 5% of the time has passed since the Battle started, charges own Skill Gauge by 50% \n(Can only be used once per battle)"
+  
  },
  {
    "Image": "",
-   "Unit": "Rohan V3",
-   "Effect": "After using Skills 3 times, Enhanced Panels will appear for 5 seconds \n(Can only be used once per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307576362303528/100px-PPPStickerRohan3EX.png"
+   "Unit": "Runhan",
+   "Effect": "After using Skills 3 times, Enhanced Panels will appear for 5 seconds \n(Can only be used once per battle)\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Rohan V4",
-   "Effect": "After clearing 12 Enhanced Panels, replaces a random Panel, except for Rohan Panels, with a Rohan Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307610906984479/100px-PPPStickerRohan4EX.png"
+   "Unit": "Rockhan",
+   "Effect": "After clearing 12 Enhanced Panels, replaces a random Panel, except for Rohan Panels, with a Rohan Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Shigechi",
-   "Effect": "After clearing 80 Panels, replaces a random Panel with a Shigechi Box Panel\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307642879901706/100px-PPPStickerShigechiEX.png"
+   "Effect": "After clearing 80 Panels, replaces a random Panel with a Shigechi Box Panel\n"
+   
  },
  {
    "Image": "",
    "Unit": "Yuya",
-   "Effect": "After clearing 50 Enhanced Panels, Enhanced Panels will appear for 15 seconds \n(Can only be used two times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307676144533533/100px-PPPStickerYuyaEX.png"
+   "Effect": "After clearing 50 Enhanced Panels, Enhanced Panels will appear for 15 seconds \n(Can only be used two times per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "Hayato",
-   "Effect": "After clearing 50 Partner Panels, erases 2 random Panels, having priority on Block Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307704498028544/100px-PPPStickerHayatoEX.png"
+   "Effect": "After clearing 50 Partner Panels, erases 2 random Panels, having priority on Block Panels"
+  
  },
  {
    "Image": "",
-   "Unit": "Akira V2",
-   "Effect": "After using his Skill twice, replaces 3 random Panels, except for Akira Panels, with Akira Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307725880459320/100px-PPPStickerOtoishi2EX.png"
+   "Unit": "Vakira",
+   "Effect": "After using his Skill twice, replaces 3 random Panels, except for Akira Panels, with Akira Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Miyamoto",
-   "Effect": "After making a 4x4 or bigger, enhances 4 random Stand Up Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307747711549440/100px-PPPStickerMiyamotoEX.png"
+   "Unit": "Enigma",
+   "Effect": "After making a 4x4 or bigger, enhances 4 random Stand Up Panels"
+   
  },
  {
    "Image": "",
    "Unit": "Kira ",
-   "Effect": "After entering Stand Up, replaces a random Panel, except for Kira panels, with a Box Panel\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307779803217920/100px-PPPStickerKiraEX.png"
+   "Effect": "After entering Stand Up, replaces a random Panel, except for Kira panels, with a Box Panel\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Kira V2",
-   "Effect": "After filling his Skill Gauge twice, replaces 2 random Panels with Locked Panels, having priority on Block Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307803852963850/100px-PPPKira2EX.png"
+   "Unit": "SHA",
+   "Effect": "After filling his Skill Gauge twice, replaces 2 random Panels with Locked Panels, having priority on Block Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Kosaku ",
-   "Effect": "After erasing 15 Block Panels, enhances 4 random Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307833322668042/100px-PPPStickerKawajiriEX.png"
+   "Unit": "Kosaku",
+   "Effect": "After erasing 15 Block Panels, enhances 4 random Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Kira (Kawajiri)",
-   "Effect": "After clearing 15 Intensified Panels, replaces a random Cheer Panel with a Partner Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826307866566590494/100px-PPPStickerKawajiri2EX.png"
+   "Unit": "Kosucat",
+   "Effect": "After clearing 15 Intensified Panels, replaces a random Cheer Panel with a Partner Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Giorno",
-   "Effect": "After clearing 40 Giorno Panels, replaces 2 random Panels with Box Panels\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308032233209936/100px-PPPStickerGiornoEX.png"
+   "Effect": "After clearing 40 Giorno Panels, replaces 2 random Panels with Box Panels\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Giorno V2",
-   "Effect": "After clearing 40 Giorno Panels, replaces 2 random Panels with Frog Panels\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308083419971624/100px-PPPStickerGiorno2EX.png"
+   "Unit": "Frogio",
+   "Effect": "After clearing 40 Giorno Panels, replaces 2 random Panels with Frog Panels\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Giorno V3",
-   "Effect": "After dealing 300,000 or more damage in a single Stand Up, charges the Partner’s Skill Gauge by 10% \n(Can only be used five times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308105138733087/100px-PPPStickerGiorno3EX.png"
+   "Unit": "Viorno",
+   "Effect": "After dealing 300,000 or more damage in a single Stand Up, charges the Partner’s Skill Gauge by 10% \n(Can only be used five times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Gold Experience Requiem",
-   "Effect": "After clearing 50 Giorno Panels, replaces a random Panel with a Giorno Box Pane",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308123978891294/100px-PPPStickerGiorno4EX.png"
+   "Unit": "GER",
+   "Effect": "After clearing 50 Giorno Panels, replaces a random Panel with a Giorno Box Pane"
+
  },
  {
    "Image": "",
-   "Unit": "Narancia (Giorno)",
-   "Effect": "After entering Stand Up 3 times, replaces 3 random Panels, except for Partner Panels, with Partner Box Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308155336032286/100px-PPPStickerGiorno5EX.png"
+   "Unit": "Narancia(Giorno)",
+   "Effect": "After entering Stand Up 3 times, replaces 3 random Panels, except for Partner Panels, with Partner Box Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Giorno & Mista",
-   "Effect": "After using their Skill twice, replaces a random panel, except for Giorno & Mista Panels, with a Giorno & Mista Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308179624198164/100px-PPPStickerGiornoMistaEX.png"
+   "Unit": "Giosta",
+   "Effect": "After using their Skill twice, replaces a random panel, except for Giorno & Mista Panels, with a Giorno & Mista Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Bruno",
-   "Effect": "After using Skills 4 times, enhances all the panels in the bottom 2 rows \n(Can only be used three times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308205130285126/100px-PPPStickerBucciaratiEX.png"
+   "Effect": "After using Skills 4 times, enhances all the panels in the bottom 2 rows \n(Can only be used three times per battle)\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Bruno V2",
-   "Effect": "After making a 5x5 or bigger, enhances 9 random Stand Up Panels \n(Can only be used three times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308237858832404/100px-PPPStickerBucciarati2EX.png"
+   "Unit": "2no",
+   "Effect": "After making a 5x5 or bigger, enhances 9 random Stand Up Panels \n(Can only be used three times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Bruno & Abbacchio",
-   "Effect": "After making a 5x5 or bigger, replaces 4 random Stand Up Panels with Intensified Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308264689664010/100px-PPPStickerBucciaratiAbbacchioEX.png"
+   "Unit": "Bruabba",
+   "Effect": "After making a 5x5 or bigger, replaces 4 random Stand Up Panels with Intensified Panels"
+   
  },
  {
    "Image": "",
    "Unit": "Abbacchio",
-   "Effect": "After a 5% of the time has passed since the Battle started, replaces 2 random Panels with Enhanced Abbacchio Box Panels \n(Can only be used once per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308286583275601/100px-PPPStickerAbbacchioEX.png"
+   "Effect": "After a 5% of the time has passed since the Battle started, replaces 2 random Panels with Enhanced Abbacchio Box Panels \n(Can only be used once per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "Mista",
-   "Effect": "After erasing 6 Block Panels, replaces 2 random Panels with Locked Panels in the lateral rows",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308309043642388/100px-PPPStickerMistaEX.png"
+   "Effect": "After erasing 6 Block Panels, replaces 2 random Panels with Locked Panels in the lateral rows"
+  
  },
  {
    "Image": "",
-   "Unit": "Trish (Mista)",
-   "Effect": "TBA",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/827388306051563550/150px-PPPStickerMista2EX.png"
+   "Unit": "Trista",
+   "Effect": "TBA"
+   
  },
  {
    "Image": "",
-   "Unit": "Mista V2",
-   "Effect": "After filling the Skill Gauge twice, the top and bottom of a random Panel are changed to Intensified Panels, having priority on Box Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308364966690857/100px-PPPStickerMista3EX.png"
+   "Unit": "Vista",
+   "Effect": "After filling the Skill Gauge twice, the top and bottom of a random Panel are changed to Intensified Panels, having priority on Box Panels"
+   
  },
  {
    "Image": "",
    "Unit": "Narancia",
-   "Effect": "After using Skills 4 times, fully recharges his Skill Gauge",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308387074605070/100px-PPPStickerNaranciaEX.png"
+   "Effect": "After using Skills 4 times, fully recharges his Skill Gauge"
+   
  },
  {
    "Image": "",
-   "Unit": "Giorno (Narancia)",
-   "Effect": "After matching 200 Panels, fully recharges his Skill Gauge \n(Can only be used three times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308407157981214/100px-PPPStickerNarancia3EX.png"
+   "Unit": "Giorno(Narancia)",
+   "Effect": "After matching 200 Panels, fully recharges his Skill Gauge \n(Can only be used three times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Narancia & Fugo",
-   "Effect": "After clearing 60 Enhanced Panels, replaces a random Cheer Panel with an Enhanced Partner Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308543400902657/100px-PPPStickerNaranciaFugoEX.png"
+   "Unit": "Nugo",
+   "Effect": "After clearing 60 Enhanced Panels, replaces a random Cheer Panel with an Enhanced Partner Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Fugo",
-   "Effect": "After erasing 30 Block Panels, replaces the upper part with Intensified Panels \n(Can only be used three times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308570257293322/100px-PPPStickerFugoEX.png"
+   "Effect": "After erasing 30 Block Panels, replaces the upper part with Intensified Panels \n(Can only be used three times per battle)\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Fugo V2",
-   "Effect": "After clearing 40 Fugo Panels, replace a random Cheer Panel with a Fugo Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308592876650556/100px-PPPStickerFugo2EX.png"
+   "Unit": "Vugo",
+   "Effect": "After clearing 40 Fugo Panels, replace a random Cheer Panel with a Fugo Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Trish",
-   "Effect": "After 8 seconds pass with more than 18 Block Panels or Hole Panels present, charges her Skill Gauge by 30% \n(Can only be used five times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308616398307379/100px-PPPStickerTrishEX.png"
+   "Effect": "After 8 seconds pass with more than 18 Block Panels or Hole Panels present, charges her Skill Gauge by 30% \n(Can only be used five times per battle)"
+   
  },
  {
    "Image": "",
-   "Unit": "Mista (Trish)",
-   "Effect": "Every 9 seconds with 12 or more Block/Hole panels, skill gauge increases 20% \n(up to 5 times per battle).\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308638779506718/100px-PPPStickerTrish2EX.png"
+   "Unit": "Mish",
+   "Effect": "Every 9 seconds with 12 or more Block/Hole panels, skill gauge increases 20% \n(up to 5 times per battle).\n"
+   
  },
  {
    "Image": "",
-   "Unit": "Trish V2",
-   "Effect": "Every time 20 Intensified Panels are cleared, replaces a random Cheer Panel with a Trish Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308661965881345/100px-PPPStickerTrish3EX.png"
+   "Unit": "Vrish",
+   "Effect": "Every time 20 Intensified Panels are cleared, replaces a random Cheer Panel with a Trish Box Panel"
+   
  },
  {
    "Image": "",
-   "Unit": "Polnareff (Part 5)",
-   "Effect": "TBA",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308688935256084/100px-PPPStickerPolnareff5-1EX.png"
+   "Unit": "Cripol",
+   "Effect": "TBA"
+   
  },
  {
    "Image": "",
-   "Unit": "Polnareff (Part 5) V2",
-   "Effect": "Every time 10 Block Panels are erased, replaces 3 random panels with Enhanced Partner Panels.",
-   "Image URL": "https://cdn.discordapp.com/attachments/617733417597009957/828062411171823656/PPPStickerPolnareff5-2EX.png"
+   "Unit": "Vripol",
+   "Effect": "Every time 10 Block Panels are erased, replaces 3 random panels with Enhanced Partner Panels."
+   
  },
  {
    "Image": "",
    "Unit": "Polpo",
-   "Effect": "After making a 5x5 or bigger, all Polpo Panels are changed to Intensified Panels \n(Can only be used three times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308739870097408/100px-PPPStickerPolpoEX.png"
+   "Effect": "After making a 5x5 or bigger, all Polpo Panels are changed to Intensified Panels \n(Can only be used three times per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "Illuso",
-   "Effect": "After making a 5x5 or bigger, replaces all Partner Panels with Intensified Partner Panels \n(Can only be used once per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308766147805225/100px-PPPStickerIllusoEX.png"
+   "Effect": "After making a 5x5 or bigger, replaces all Partner Panels with Intensified Partner Panels \n(Can only be used once per battle)"
+   
  },
  {
    "Image": "",
    "Unit": "Prosciutto",
-   "Effect": "After clearing 80 Cheer Panels, intensifies all Prosciutto Panels \n(Can only be used ten times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308799274549278/100px-PPPStickerProsciuttoEX.png"
+   "Effect": "After clearing 80 Cheer Panels, intensifies all Prosciutto Panels \n(Can only be used ten times per battle)"
+   
  },
  {
    "Image": "",
    "Unit": "Ghiaccio",
-   "Effect": "After entering Stand Up 2 times, replaces 6 random Panels in the left side with Ghiaccio Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308829309566976/100px-PPPStickerGhiaccioEX.png"
+   "Effect": "After entering Stand Up 2 times, replaces 6 random Panels in the left side with Ghiaccio Panels"
+  
  },
  {
    "Image": "",
-   "Unit": "Ghiaccio V2",
-   "Effect": "After making a 5x5 or bigger in Stand Up, enhances 4 random Panels with priority on Ghiaccio Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308850595921970/100px-PPPStickerGhiaccio2EX.png"
+   "Unit": "VGhiaccio",
+   "Effect": "After making a 5x5 or bigger in Stand Up, enhances 4 random Panels with priority on Ghiaccio Panels"
+   
  },
  {
    "Image": "",
-   "Unit": "Cioccolata",
-   "Effect": "After using the Partner’s Skills 5 times, fully recharges Cioccolata’s Skill Gauge \n(Can only be used three times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308906727899217/100px-PPPStickerCioccolataEX.png"
+   "Unit": "Cio",
+   "Effect": "After using the Partner’s Skills 5 times, fully recharges Cioccolata’s Skill Gauge \n(Can only be used three times per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "Doppio",
-   "Effect": "After using his skill 2 times, six random cheer Panels will be erased.\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308940945424474/100px-PPPStickerDoppioEX.png"
+   "Effect": "After using his skill 2 times, six random cheer Panels will be erased.\n"
+   
  },
  {
    "Image": "",
    "Unit": "Risotto",
-   "Effect": "After using the Partner’s Skill, erases random Panels, having priority on Risotto Panels",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308878118944768/100px-PPPStickerRisottoEX.png"
+   "Effect": "After using the Partner’s Skill, erases random Panels, having priority on Risotto Panels"
+  
  },
  {
    "Image": "",
    "Unit": "Diavolo ",
-   "Effect": "After making two 4x4 or bigger in Stand Up, replaces a random Panel, except for Partner Panels, with a Partner Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308966799507476/100px-PPPStickerDiavoloEX.png"
+   "Effect": "After making two 4x4 or bigger in Stand Up, replaces a random Panel, except for Partner Panels, with a Partner Box Panel"
+  
  },
  {
    "Image": "",
-   "Unit": "Diavolo V2",
-   "Effect": "After making a 2x2 or bigger 12 times, after Stand Up Panels are used, replace a random Panel with an Enhanced Diavolo Box Panel",
-   "Image URL": "https://cdn.discordapp.com/attachments/826262704472850512/826308991511822356/100px-PPPStickerDiavolo2EX.png"
+   "Unit": "Vdiavolo",
+   "Effect": "After making a 2x2 or bigger 12 times, after Stand Up Panels are used, replace a random Panel with an Enhanced Diavolo Box Panel"
+   
  },
  {
    "Image": "",
    "Unit": "Squalo",
-   "Effect": "After clearing 50 Squalo panels, replaces random panel with enhanced Squalo box panel \n(up to 5 times per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/764010505668395019/827617744560062524/ui_sticker_icon_5019000000.png"
+   "Effect": "After clearing 50 Squalo panels, replaces random panel with enhanced Squalo box panel \n(up to 5 times per battle)"
+   
  },
  {
    "Image": "",
    "Unit": "Tiziano",
-   "Effect": "After using partner skill twice, replaces 4 random panels (prioritizing Tiziano panels) with partner panels.\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/764010505668395019/827617746652627024/ui_sticker_icon_5020000000.png"
+   "Effect": "After using partner skill twice, replaces 4 random panels (prioritizing Tiziano panels) with partner panels.\n"
+   
  },
  {
    "Image": "",
    "Unit": "GREAT!",
-   "Effect": "For every 80 panels cleared, replaces a random panel with a Box panel \n(up to 3 times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/617733417597009957/828080186271727637/PPPStickerGREATEX.png"
+   "Effect": "For every 80 panels cleared, replaces a random panel with a Box panel \n(up to 3 times per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "BLOOD",
-   "Effect": "For every 80 panels erased, randomly erases 1 panel with priority on Block panels \n(up to 3 times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/617733417597009957/828080954912407552/PPPStickerBloodEX.png"
+   "Effect": "For every 80 panels erased, randomly erases 1 panel with priority on Block panels \n(up to 3 times per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "BREAK",
-   "Effect": "For every 80 panels cleared, randomly enhances 1 panel \n(up to 3 times per battle)\n",
-   "Image URL": "https://cdn.discordapp.com/attachments/617733417597009957/828081338816266280/PPPStickerBreakEX.png"
+   "Effect": "For every 80 panels cleared, randomly enhances 1 panel \n(up to 3 times per battle)\n"
+   
  },
  {
    "Image": "",
    "Unit": "Golden Wind",
-   "Effect": "After 90% of the time has passed since the Battle started, change random panels to 3 boxes (once per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/617733417597009957/828081716077920276/PPPTower1EX.png"
+   "Effect": "After 90% of the time has passed since the Battle started, change random panels to 3 boxes (once per battle)"
+   
  },
  {
    "Image": "",
    "Unit": "OVERDRIVE",
-   "Effect": "After 50% of the time has passed since the Battle started, replaces 2 random Panels with Box Panels (once per battle)",
-   "Image URL": "https://cdn.discordapp.com/attachments/617733417597009957/828081992632369163/PPPTower2EX.png"
+   "Effect": "After 50% of the time has passed since the Battle started, replaces 2 random Panels with Box Panels (once per battle)"
+   
  }
 ]
 
