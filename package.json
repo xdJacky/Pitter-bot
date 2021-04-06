@@ -1,0 +1,15 @@
+{
+  "name": "pitter-patter-pop-bot",
+  "version": "1.0.0",
+  "description": "the requesting service for PPP unit information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Sutton",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {}
+}
