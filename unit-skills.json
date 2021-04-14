@@ -2,7 +2,7 @@
 "UNITS" : 
 [ 
  {
-   "Unit": "Jonathan",
+   "Unit": "Jon",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "No",
@@ -620,7 +620,7 @@
  },
  {
    "Image": "",
-   "Unit": "Voiced Jotaro",
+   "Unit": "V3taro",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -1320,7 +1320,7 @@
  },
  {
    "Image": "",
-   "Unit": "Vanilla-Ice",
+   "Unit": "Vice",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "No",
@@ -2000,7 +2000,7 @@
  },
  {
    "Image": "",
-   "Unit": "Kawajiri",
+   "Unit": "Kosaku",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2020,7 +2020,7 @@
  },
  {
    "Image": "",
-   "Unit": "Kosukat",
+   "Unit": "Kosucat",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2140,7 +2140,7 @@
  },
  {
    "Image": "",
-   "Unit": "Narancia-(Giorno)",
+   "Unit": "Naragio",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2240,7 +2240,7 @@
  },
  {
    "Image": "",
-   "Unit": "Abbacchio",
+   "Unit": "Abba",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "No",
@@ -2300,7 +2300,7 @@
  },
  {
    "Image": "",
-   "Unit": "Trista)",
+   "Unit": "Trista",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2380,7 +2380,7 @@
  },
  {
    "Image": "",
-   "Unit": "Giorno-(Narancia)",
+   "Unit": "Giorancia",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2700,7 +2700,7 @@
  },
  {
    "Image": "",
-   "Unit": "Ghiaccio ",
+   "Unit": "Ghia",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "No",
@@ -2720,7 +2720,7 @@
  },
  {
    "Image": "",
-   "Unit": "Vhiaccio",
+   "Unit": "Vhia",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2740,7 +2740,7 @@
  },
  {
    "Image": "",
-   "Unit": "Melone ",
+   "Unit": "Melone",
    "Rarity": "SR",
    "FIELD4": "",
    "Limited": "No",
@@ -2820,7 +2820,7 @@
  },
  {
    "Image": "",
-   "Unit": "Prosciutto ",
+   "Unit": "Pros",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2880,7 +2880,7 @@
  },
  {
    "Image": "",
-   "Unit": "VIlluso",
+   "Unit": "Villuso",
    "Rarity": "GR",
    "FIELD4": "",
    "Limited": "Yes",
@@ -2940,7 +2940,7 @@
  },
  {
    "Image": "",
-   "Unit": "Formaggio",
+   "Unit": "Forma",
    "Rarity": "SR",
    "FIELD4": "",
    "Limited": "No",
