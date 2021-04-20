@@ -57,13 +57,13 @@ client.on("message", function(message) {
       const args = commandBody.split(' ');
       const command = args.shift().toLowerCase();
   if (command === "jst") {
-    let date_obj = new Date();
-    let hrs = date_obj.getHours() + 9;
-    let mins = date_obj.getMinutes();
+    let dateobj = new Date();
+    let hrs = dateobj.getHours() + 9;
+    let mins = dateobj.getMinutes();
       if( hrs > "24"){
-        hrs = hrs - 24
-       var date = "Time:"+hrs+" : "+mins
+          hrs = hrs - 24
       }
+      var date = hrs +" : "+ mins
     message.reply("Japanese Standard Time: " + date)
     }
  });
@@ -80,10 +80,10 @@ client.on("message", function(message) {
       let mins = date_obj.getMinutes();
       if( hrs > "24"){
           hrs = hrs - 24
+       }
       var updatehrs = diff(hrs,"15")
       var updatemins = diff(mins,"60")
       message.reply(updatehrs+" : "+updatemins)
-       }
     }
  });
 
@@ -94,15 +94,15 @@ client.on("message", function(message) {
       const args = commandBody.split(' ');
       const command = args.shift().toLowerCase();
     if (command === "r") {
-      let date_obj = new Date();
-      let hrs = date_obj.getHours() + 9;
-      let mins = date_obj.getMinutes();
+      let date_obj2 = new Date();
+      let hrs = date_obj2.getHours() + 9;
+      let mins = date_obj2.getMinutes();
       if( hrs > "24"){
           hrs = hrs - 24
+       }
       var updatehrs = diff(hrs,"23")
       var updatemins = diff(mins,"60")
       message.reply(updatehrs+" : "+updatemins)
-       }
     }
  });
 
@@ -185,4 +185,4 @@ client.on("message", function(message) {
       
       }
       return responder;
-  };
+  }; 
